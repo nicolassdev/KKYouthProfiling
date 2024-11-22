@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\YouthProfilingSystem\\KKYouthProfiling\\KKYouthProfiling.vbproj": {}
+    "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\KKYouthProfiling.vbproj": {}
   },
   "projects": {
-    "D:\\YouthProfilingSystem\\KKYouthProfiling\\KKYouthProfiling.vbproj": {
+    "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\KKYouthProfiling.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\YouthProfilingSystem\\KKYouthProfiling\\KKYouthProfiling.vbproj",
+        "projectUniqueName": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\KKYouthProfiling.vbproj",
         "projectName": "KKYouthProfiling",
-        "projectPath": "D:\\YouthProfilingSystem\\KKYouthProfiling\\KKYouthProfiling.vbproj",
+        "projectPath": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\KKYouthProfiling.vbproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\YouthProfilingSystem\\KKYouthProfiling\\obj\\",
+        "outputPath": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0-windows"
+          "net8.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -31,7 +31,7 @@
         },
         "frameworks": {
           "net8.0-windows7.0": {
-            "targetAlias": "net8.0-windows",
+            "targetAlias": "net8.0-windows7.0",
             "projectReferences": {}
           }
         },
@@ -48,11 +48,15 @@
       },
       "frameworks": {
         "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows",
+          "targetAlias": "net8.0-windows7.0",
           "dependencies": {
             "FontAwesome.Sharp": {
               "target": "Package",
               "version": "[6.6.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.33, )"
             }
           },
           "imports": [

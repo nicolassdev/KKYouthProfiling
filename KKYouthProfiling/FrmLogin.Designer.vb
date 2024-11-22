@@ -1,9 +1,11 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿Imports System.Text
+
+<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class FrmLogin
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,17 +22,19 @@ Partial Class FrmLogin
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FrmLogin))
         PictureBox1 = New PictureBox()
         Label1 = New Label()
         GroupBox1 = New GroupBox()
         IconSeePass = New FontAwesome.Sharp.IconButton()
         txtPassword = New TextBox()
         txtUsername = New TextBox()
-        IconButton1 = New FontAwesome.Sharp.IconButton()
+        IconBtnLogin = New FontAwesome.Sharp.IconButton()
         IconAdmin = New FontAwesome.Sharp.IconPictureBox()
         IconLock = New FontAwesome.Sharp.IconPictureBox()
+        IconButtonExit = New FontAwesome.Sharp.IconButton()
         CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
         GroupBox1.SuspendLayout()
         CType(IconAdmin, ComponentModel.ISupportInitialize).BeginInit()
@@ -63,10 +67,10 @@ Partial Class FrmLogin
         GroupBox1.Controls.Add(IconSeePass)
         GroupBox1.Controls.Add(txtPassword)
         GroupBox1.Controls.Add(txtUsername)
-        GroupBox1.Controls.Add(IconButton1)
+        GroupBox1.Controls.Add(IconBtnLogin)
         GroupBox1.Controls.Add(IconAdmin)
         GroupBox1.Controls.Add(IconLock)
-        GroupBox1.Font = New Font("Conthrax Sb", 14.0F, FontStyle.Bold)
+        GroupBox1.Font = New Font("Conthrax Sb", 14F, FontStyle.Bold)
         GroupBox1.ForeColor = Color.White
         GroupBox1.Location = New Point(481, 81)
         GroupBox1.Name = "GroupBox1"
@@ -87,46 +91,46 @@ Partial Class FrmLogin
         IconSeePass.Location = New Point(297, 184)
         IconSeePass.Name = "IconSeePass"
         IconSeePass.Size = New Size(28, 29)
-        IconSeePass.TabIndex = 3
+        IconSeePass.TabIndex = 4
         IconSeePass.UseVisualStyleBackColor = True
         ' 
         ' txtPassword
         ' 
-        txtPassword.Font = New Font("Segoe UI", 12.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        txtPassword.Font = New Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         txtPassword.Location = New Point(80, 183)
         txtPassword.Multiline = True
         txtPassword.Name = "txtPassword"
         txtPassword.PasswordChar = "*"c
         txtPassword.PlaceholderText = "   Password"
         txtPassword.Size = New Size(211, 30)
-        txtPassword.TabIndex = 3
+        txtPassword.TabIndex = 2
         ' 
         ' txtUsername
         ' 
-        txtUsername.Font = New Font("Segoe UI", 12.0F)
+        txtUsername.Font = New Font("Segoe UI", 12F)
         txtUsername.Location = New Point(80, 114)
         txtUsername.Name = "txtUsername"
         txtUsername.PlaceholderText = "   Username"
         txtUsername.Size = New Size(211, 29)
-        txtUsername.TabIndex = 2
+        txtUsername.TabIndex = 1
         ' 
-        ' IconButton1
+        ' IconBtnLogin
         ' 
-        IconButton1.BackColor = Color.DodgerBlue
-        IconButton1.FlatAppearance.BorderColor = Color.DodgerBlue
-        IconButton1.FlatAppearance.BorderSize = 0
-        IconButton1.FlatStyle = FlatStyle.Flat
-        IconButton1.Font = New Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        IconButton1.ForeColor = Color.White
-        IconButton1.IconChar = FontAwesome.Sharp.IconChar.None
-        IconButton1.IconColor = Color.Black
-        IconButton1.IconFont = FontAwesome.Sharp.IconFont.Auto
-        IconButton1.Location = New Point(80, 248)
-        IconButton1.Name = "IconButton1"
-        IconButton1.Size = New Size(211, 47)
-        IconButton1.TabIndex = 4
-        IconButton1.Text = "Login"
-        IconButton1.UseVisualStyleBackColor = False
+        IconBtnLogin.BackColor = Color.DodgerBlue
+        IconBtnLogin.FlatAppearance.BorderColor = Color.DodgerBlue
+        IconBtnLogin.FlatAppearance.BorderSize = 2
+        IconBtnLogin.FlatStyle = FlatStyle.Flat
+        IconBtnLogin.Font = New Font("Segoe UI", 11.25F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        IconBtnLogin.ForeColor = Color.White
+        IconBtnLogin.IconChar = FontAwesome.Sharp.IconChar.None
+        IconBtnLogin.IconColor = Color.Black
+        IconBtnLogin.IconFont = FontAwesome.Sharp.IconFont.Auto
+        IconBtnLogin.Location = New Point(80, 248)
+        IconBtnLogin.Name = "IconBtnLogin"
+        IconBtnLogin.Size = New Size(211, 47)
+        IconBtnLogin.TabIndex = 3
+        IconBtnLogin.Text = "Login"
+        IconBtnLogin.UseVisualStyleBackColor = False
         ' 
         ' IconAdmin
         ' 
@@ -156,16 +160,30 @@ Partial Class FrmLogin
         IconLock.TabIndex = 0
         IconLock.TabStop = False
         ' 
+        ' IconButtonExit
+        ' 
+        IconButtonExit.ForeColor = Color.FromArgb(CByte(33), CByte(37), CByte(41))
+        IconButtonExit.IconChar = FontAwesome.Sharp.IconChar.SignOutAlt
+        IconButtonExit.IconColor = Color.FromArgb(CByte(33), CByte(37), CByte(41))
+        IconButtonExit.IconFont = FontAwesome.Sharp.IconFont.Auto
+        IconButtonExit.Location = New Point(12, 470)
+        IconButtonExit.Name = "IconButtonExit"
+        IconButtonExit.Size = New Size(52, 41)
+        IconButtonExit.TabIndex = 3
+        IconButtonExit.UseVisualStyleBackColor = True
+        ' 
         ' FrmLogin
         ' 
-        AutoScaleDimensions = New SizeF(7.0F, 15.0F)
+        AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         BackColor = Color.FromArgb(CByte(33), CByte(37), CByte(41))
         ClientSize = New Size(867, 523)
         ControlBox = False
+        Controls.Add(IconButtonExit)
         Controls.Add(GroupBox1)
         Controls.Add(Label1)
         Controls.Add(PictureBox1)
+        Icon = CType(resources.GetObject("$this.Icon"), Icon)
         MaximizeBox = False
         MinimizeBox = False
         Name = "FrmLogin"
@@ -184,8 +202,9 @@ Partial Class FrmLogin
     Friend WithEvents GroupBox1 As GroupBox
     Friend WithEvents IconLock As FontAwesome.Sharp.IconPictureBox
     Friend WithEvents IconAdmin As FontAwesome.Sharp.IconPictureBox
-    Friend WithEvents IconButton1 As FontAwesome.Sharp.IconButton
+    Friend WithEvents IconBtnLogin As FontAwesome.Sharp.IconButton
     Friend WithEvents txtPassword As TextBox
     Friend WithEvents txtUsername As TextBox
     Friend WithEvents IconSeePass As FontAwesome.Sharp.IconButton
+    Friend WithEvents IconButtonExit As FontAwesome.Sharp.IconButton
 End Class

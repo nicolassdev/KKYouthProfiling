@@ -4,5 +4,7 @@
     Public Shared color3 As Color = Color.FromArgb(51, 133, 255)
     Public Shared color4 As Color = Color.FromArgb(245, 101, 101)
     Public Shared color5 As Color = Color.FromArgb(255, 0, 0)
+    Public Shared color6 As Color = Color.Violet
+    Public Shared color7 As Color = Color.Red
 
 End Structure

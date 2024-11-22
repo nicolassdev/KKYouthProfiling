@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KKYouthProfiling
-build_property.ProjectDir = D:\YouthProfilingSystem\KKYouthProfiling\
+build_property.ProjectDir = D:\YouthProfiling\KKYouthProfiling\KKYouthProfiling\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
