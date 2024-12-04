@@ -74,14 +74,13 @@ Public Class FrmSecurityAdmin
             Static Dim counter As Integer
             If (txtSecUsername.Text = "") Then
                 MsgBox("Enter username.", MsgBoxStyle.Critical, "Required")
-                txtSecUsername.BackColor = Color.FromArgb(240, 240, 20)
+                txtSecUsername.BackColor = Color.LightCoral
                 txtSecUsername.Select()
                 Exit Sub
-                txtSecUsername.BackColor = SystemColors.Window
-                txtSecPassword.BackColor = SystemColors.Window
+
             ElseIf (txtSecPassword.Text = "") Then
                 MsgBox("Enter password.", MsgBoxStyle.Critical, "Required")
-                txtSecPassword.BackColor = Color.FromArgb(240, 240, 20)
+                txtSecPassword.BackColor = Color.LightCoral
                 txtSecPassword.Select()
                 Exit Sub
             Else
@@ -127,5 +126,13 @@ Public Class FrmSecurityAdmin
                 MyCOn.Close()
             End If
         End Try
+    End Sub
+
+    Private Sub txtSecUsername_TextChanged(sender As Object, e As EventArgs) Handles txtSecUsername.TextChanged
+        txtSecUsername.BackColor = Color.White
+    End Sub
+
+    Private Sub txtSecPassword_TextChanged(sender As Object, e As EventArgs) Handles txtSecPassword.TextChanged
+        txtSecPassword.BackColor = Color.White
     End Sub
 End Class

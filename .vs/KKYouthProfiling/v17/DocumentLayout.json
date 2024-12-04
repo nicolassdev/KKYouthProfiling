@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "D:\\YouthProfiling\\KKYouthProfiling\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|d:\\youthprofiling\\kkyouthprofiling\\kkyouthprofiling\\frmyouth.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|solutionrelative:kkyouthprofiling\\frmyouth.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|d:\\youthprofiling\\kkyouthprofiling\\kkyouthprofiling\\frmyouth.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|solutionrelative:kkyouthprofiling\\frmyouth.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|d:\\youthprofiling\\kkyouthprofiling\\kkyouthprofiling\\frmdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|solutionrelative:kkyouthprofiling\\frmdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|d:\\youthprofiling\\kkyouthprofiling\\kkyouthprofiling\\frmyouthprofile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|solutionrelative:kkyouthprofiling\\frmyouthprofile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|d:\\youthprofiling\\kkyouthprofiling\\kkyouthprofiling\\frmyouthprofile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|solutionrelative:kkyouthprofiling\\frmyouthprofile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|d:\\youthprofiling\\kkyouthprofiling\\kkyouthprofiling\\frmyouthprofile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|solutionrelative:kkyouthprofiling\\frmyouthprofile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|d:\\youthprofiling\\kkyouthprofiling\\kkyouthprofiling\\frmsecurityadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|solutionrelative:kkyouthprofiling\\frmsecurityadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|d:\\youthprofiling\\kkyouthprofiling\\kkyouthprofiling\\frmyouth.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|solutionrelative:kkyouthprofiling\\frmyouth.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|d:\\youthprofiling\\kkyouthprofiling\\kkyouthprofiling\\frmyouth.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|solutionrelative:kkyouthprofiling\\frmyouth.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|d:\\youthprofiling\\kkyouthprofiling\\kkyouthprofiling\\frmsecurityadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|solutionrelative:kkyouthprofiling\\frmsecurityadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|d:\\youthprofiling\\kkyouthprofiling\\kkyouthprofiling\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|solutionrelative:kkyouthprofiling\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|d:\\youthprofiling\\kkyouthprofiling\\kkyouthprofiling\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|solutionrelative:kkyouthprofiling\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|d:\\youthprofiling\\kkyouthprofiling\\kkyouthprofiling\\frmdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|solutionrelative:kkyouthprofiling\\frmdashboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|d:\\youthprofiling\\kkyouthprofiling\\kkyouthprofiling\\frmadminprofile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -29,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|d:\\youthprofiling\\kkyouthprofiling\\kkyouthprofiling\\dbconnect.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|solutionrelative:kkyouthprofiling\\dbconnect.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|d:\\youthprofiling\\kkyouthprofiling\\kkyouthprofiling\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|solutionrelative:kkyouthprofiling\\frmlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5DAB3D83-F546-49D7-83FF-80D8378955BF}|KKYouthProfiling\\KKYouthProfiling.vbproj|d:\\youthprofiling\\kkyouthprofiling\\kkyouthprofiling\\frmanalysis.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
@@ -50,17 +62,16 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FrmYouth.vb",
               "DocumentMoniker": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmYouth.vb",
               "RelativeDocumentMoniker": "KKYouthProfiling\\FrmYouth.vb",
               "ToolTip": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmYouth.vb",
               "RelativeToolTip": "KKYouthProfiling\\FrmYouth.vb",
-              "ViewState": "AgIAADkAAAAAAAAAAAAWwEkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABUDAAAAAAAAAAAswFQDAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-11-13T15:56:31.832Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -69,6 +80,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FrmYouthProfile.vb",
+              "DocumentMoniker": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmYouthProfile.vb",
+              "RelativeDocumentMoniker": "KKYouthProfiling\\FrmYouthProfile.vb",
+              "ToolTip": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmYouthProfile.vb",
+              "RelativeToolTip": "KKYouthProfiling\\FrmYouthProfile.vb",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAqwKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-18T10:16:22.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "FrmYouth.vb [Design]",
               "DocumentMoniker": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmYouth.vb",
               "RelativeDocumentMoniker": "KKYouthProfiling\\FrmYouth.vb",
@@ -80,19 +104,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmDashboard.vb",
-              "DocumentMoniker": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmDashboard.vb",
-              "RelativeDocumentMoniker": "KKYouthProfiling\\FrmDashboard.vb",
-              "ToolTip": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmDashboard.vb",
-              "RelativeToolTip": "KKYouthProfiling\\FrmDashboard.vb",
-              "ViewState": "AgIAALgAAAAAAAAAAAAlwMYAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "FrmLogin.vb",
+              "DocumentMoniker": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmLogin.vb",
+              "RelativeDocumentMoniker": "KKYouthProfiling\\FrmLogin.vb",
+              "ToolTip": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmLogin.vb",
+              "RelativeToolTip": "KKYouthProfiling\\FrmLogin.vb",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAqwHsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-18T10:18:54.692Z"
+              "WhenOpened": "2024-11-16T05:59:07.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "FrmYouthProfile.vb [Design]",
               "DocumentMoniker": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmYouthProfile.vb",
               "RelativeDocumentMoniker": "KKYouthProfiling\\FrmYouthProfile.vb",
@@ -104,19 +128,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmYouthProfile.vb",
-              "DocumentMoniker": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmYouthProfile.vb",
-              "RelativeDocumentMoniker": "KKYouthProfiling\\FrmYouthProfile.vb",
-              "ToolTip": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmYouthProfile.vb",
-              "RelativeToolTip": "KKYouthProfiling\\FrmYouthProfile.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FrmSecurityAdmin.vb",
+              "DocumentMoniker": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmSecurityAdmin.vb",
+              "RelativeDocumentMoniker": "KKYouthProfiling\\FrmSecurityAdmin.vb",
+              "ToolTip": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmSecurityAdmin.vb",
+              "RelativeToolTip": "KKYouthProfiling\\FrmSecurityAdmin.vb",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAqwIcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-18T10:16:22.25Z"
+              "WhenOpened": "2024-11-22T14:27:17.486Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "FrmSecurityAdmin.vb [Design]",
+              "DocumentMoniker": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmSecurityAdmin.vb",
+              "RelativeDocumentMoniker": "KKYouthProfiling\\FrmSecurityAdmin.vb",
+              "ToolTip": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmSecurityAdmin.vb [Design]",
+              "RelativeToolTip": "KKYouthProfiling\\FrmSecurityAdmin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-22T14:27:15.117Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmLogin.vb [Design]",
+              "DocumentMoniker": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmLogin.vb",
+              "RelativeDocumentMoniker": "KKYouthProfiling\\FrmLogin.vb",
+              "ToolTip": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmLogin.vb [Design]",
+              "RelativeToolTip": "KKYouthProfiling\\FrmLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-22T14:27:45.803Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmDashboard.vb",
+              "DocumentMoniker": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmDashboard.vb",
+              "RelativeDocumentMoniker": "KKYouthProfiling\\FrmDashboard.vb",
+              "ToolTip": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmDashboard.vb",
+              "RelativeToolTip": "KKYouthProfiling\\FrmDashboard.vb",
+              "ViewState": "AgIAALgAAAAAAAAAAAAlwMYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-18T10:18:54.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "FrmAdminProfile.vb",
               "DocumentMoniker": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmAdminProfile.vb",
               "RelativeDocumentMoniker": "KKYouthProfiling\\FrmAdminProfile.vb",
@@ -128,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "FrmAnalysis.vb",
               "DocumentMoniker": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmAnalysis.vb",
               "RelativeDocumentMoniker": "KKYouthProfiling\\FrmAnalysis.vb",
@@ -140,19 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FrmLogin.vb",
-              "DocumentMoniker": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmLogin.vb",
-              "RelativeDocumentMoniker": "KKYouthProfiling\\FrmLogin.vb",
-              "ToolTip": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\FrmLogin.vb",
-              "RelativeToolTip": "KKYouthProfiling\\FrmLogin.vb",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAnwH0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-16T05:59:07.525Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "DBConnect.vb",
               "DocumentMoniker": "D:\\YouthProfiling\\KKYouthProfiling\\KKYouthProfiling\\DBConnect.vb",
               "RelativeDocumentMoniker": "KKYouthProfiling\\DBConnect.vb",

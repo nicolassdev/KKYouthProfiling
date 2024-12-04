@@ -26,6 +26,8 @@ Partial Class FrmYouthProfile
         TabControl1 = New TabControl()
         TabPage1 = New TabPage()
         Panel1 = New Panel()
+        btnPdf = New Button()
+        btnDownload = New Button()
         Label2 = New Label()
         Label1 = New Label()
         PictureBox2 = New PictureBox()
@@ -87,6 +89,7 @@ Partial Class FrmYouthProfile
         Label18 = New Label()
         PictureBox17 = New PictureBox()
         PictureBox18 = New PictureBox()
+        btnDownload2 = New Button()
         TabControl1.SuspendLayout()
         TabPage1.SuspendLayout()
         Panel1.SuspendLayout()
@@ -167,6 +170,8 @@ Partial Class FrmYouthProfile
         ' 
         ' Panel1
         ' 
+        Panel1.Controls.Add(btnPdf)
+        Panel1.Controls.Add(btnDownload)
         Panel1.Controls.Add(Label2)
         Panel1.Controls.Add(Label1)
         Panel1.Controls.Add(PictureBox2)
@@ -176,6 +181,26 @@ Partial Class FrmYouthProfile
         Panel1.Name = "Panel1"
         Panel1.Size = New Size(1151, 69)
         Panel1.TabIndex = 2
+        ' 
+        ' btnPdf
+        ' 
+        btnPdf.BackColor = Color.LightGray
+        btnPdf.Location = New Point(143, 29)
+        btnPdf.Name = "btnPdf"
+        btnPdf.Size = New Size(119, 30)
+        btnPdf.TabIndex = 3
+        btnPdf.Text = "Download as PDF"
+        btnPdf.UseVisualStyleBackColor = False
+        ' 
+        ' btnDownload
+        ' 
+        btnDownload.BackColor = Color.LightGray
+        btnDownload.Location = New Point(14, 29)
+        btnDownload.Name = "btnDownload"
+        btnDownload.Size = New Size(119, 30)
+        btnDownload.TabIndex = 3
+        btnDownload.Text = "Dowload as CSV"
+        btnDownload.UseVisualStyleBackColor = False
         ' 
         ' Label2
         ' 
@@ -241,6 +266,7 @@ Partial Class FrmYouthProfile
         ' 
         ' Panel2
         ' 
+        Panel2.Controls.Add(btnDownload2)
         Panel2.Controls.Add(Label3)
         Panel2.Controls.Add(Label4)
         Panel2.Controls.Add(PictureBox3)
@@ -811,6 +837,16 @@ Partial Class FrmYouthProfile
         PictureBox18.TabIndex = 1
         PictureBox18.TabStop = False
         ' 
+        ' btnDownload2
+        ' 
+        btnDownload2.BackColor = Color.LightGray
+        btnDownload2.Location = New Point(20, 24)
+        btnDownload2.Name = "btnDownload2"
+        btnDownload2.Size = New Size(119, 30)
+        btnDownload2.TabIndex = 4
+        btnDownload2.Text = "Dowload as CSV"
+        btnDownload2.UseVisualStyleBackColor = False
+        ' 
         ' FrmYouthProfile
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
@@ -941,4 +977,7 @@ Partial Class FrmYouthProfile
     Friend WithEvents dgYouthP7 As DataGridView
     Friend WithEvents dgYouthP8 As DataGridView
     Friend WithEvents dgYouthP9 As DataGridView
+    Friend WithEvents btnPdf As Button
+    Friend WithEvents btnDownload As Button
+    Friend WithEvents btnDownload2 As Button
 End Class

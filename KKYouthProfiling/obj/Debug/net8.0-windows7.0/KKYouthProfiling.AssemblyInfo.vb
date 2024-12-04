@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("KKYouthProfiling"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df6ff0757c72aa960767c989b9e55771707837ae"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6a5741a569bcb0212f9613e1a0bf622ff8126b5"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("KKYouthProfiling"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("KKYouthProfiling"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
